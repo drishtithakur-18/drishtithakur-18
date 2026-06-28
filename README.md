@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Drishti Thakur 👋</h1>
 
 <h3 align="center">National Institute of Technology Hamirpur | Backend Developer | DSA </h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Node.js+%26+Express.js;DSA+%26+System+Design"/>
-</p><img src="https://github.com/vusufyusie/yusufyusie/raw/main/line.gif"/>👨‍💻 About Me
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Node.js+%26+Express.js;DSA+%26+System+Design"/></p><img src="https://github.com/vusufyusie/yusufyusie/raw/main/line.gif"/>👨‍💻 About Me
 
 - 💻 Backend Developer
 - 🎓 B.Tech in Electronics & Communication Engineering at National Institute of Technology Hamirpur (CGPA: 8.03/10)
