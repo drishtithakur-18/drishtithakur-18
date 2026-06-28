@@ -9,7 +9,6 @@
 - 🚀 Passionate about building scalable APIs, distributed systems, and high-performance backend applications.
 - ⚡ Interested in Backend Engineering, Redis, Docker, and Performance Optimization.
 
----
 
 💻 Tech Stack
 
@@ -41,7 +40,7 @@ Tech Stack: Node.js • Express.js • Redis Streams • MongoDB • Docker
 
 ---
 
-🔹 Production-Grade Distributed API Rate Limiter
+🔹 Distributed API Rate Limiter
 
 Tech Stack: Node.js • Express.js • Redis • Lua • Docker • Docker Compose
 
