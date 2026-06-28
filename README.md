@@ -9,7 +9,7 @@
 - 🚀 Passionate about building scalable APIs, distributed systems, and high-performance backend applications.
 - ⚡ Interested in Backend Engineering, Redis, Docker, and Performance Optimization.
 
-
+---
 💻 Tech Stack
 
 <p align="left">
