@@ -31,26 +31,3 @@
 
 ---
 
-🚀 Featured Projects
-
-🔹 High-Throughput IoT Carbon Emission Pipeline
-
-Tech Stack: Node.js • Express.js • Redis Streams • MongoDB • Docker
-
-- 🚀 Built an event-driven backend for processing high-frequency IoT carbon sensor data.
-- ⚡ Achieved 6,400 requests/sec with an average latency of 14.7 ms using Redis Streams and asynchronous worker nodes.
-- 📦 Optimized MongoDB writes through batch processing using "insertMany()".
-- 🐳 Engineered a Dead Letter Queue (DLQ) with strict payload validation and containerized the complete architecture using Docker.
-
----
-
-🔹 Distributed API Rate Limiter
-
-Tech Stack: Node.js • Express.js • Redis • Lua • Docker • Docker Compose
-
-- 🛡️ Built a highly concurrent distributed API rate limiter implementing the Lazy Evaluation Token Bucket algorithm.
-- ⚡ Executed rate-limiting logic atomically with Redis Lua scripting, completely eliminating race conditions under heavy concurrent traffic.
-- 📊 Returned standard rate-limiting headers ("X-RateLimit-Limit", "X-RateLimit-Remaining", "Retry-After") for intelligent client-side backoff.
-- 🚀 Successfully handled 45,000+ requests during stress testing with 100 concurrent connections, allowing only the mathematically correct requests while maintaining 0 race conditions.
-
----
